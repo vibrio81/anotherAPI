@@ -1,0 +1,2 @@
+--INSERT INTO PET (Id, type, name) VALUES
+-- (1, 'Dog', 'Maple');
